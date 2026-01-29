@@ -3,7 +3,7 @@ main:
       authors: X Yao, Y Wu, <strong>G Xie</strong>, DY Zhao, DH Xia
       journal_short: CEST
       journal: Corrosion Engineering, Science and Technology, 2025
-      pdf: https://journals.sagepub.com/doi/abs/10.1177/1478422X251387524
+      pdf: https://doi.org/10.1177/1478422X251387524
       image: ./assets/img/CEST.png
 
     - title: "Failure analysis and corrosion prediction of scratch-coated steel plate in marine atmosphere using semantic segmentation and temporal prediction"
