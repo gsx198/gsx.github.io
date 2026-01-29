@@ -4,14 +4,14 @@ main:
       journal_short: CEST
       journal: Corrosion Engineering, Science and Technology, 1478422X251387524
       pdf: https://journals.sagepub.com/doi/abs/10.1177/1478422X251387524
-      image:
+      image: ./assets/img/CEST.png
 
     - title: "Failure analysis and corrosion prediction of scratch-coated steel plate in marine atmosphere using semantic segmentation and temporal prediction"
       authors: Y Bao, <strong>G Xie</strong>, P Pu, X Yao, W Jin, DH Xia
       conference_short: EFA
       conference: Engineering Failure Analysis, 109912
       pdf: https://www.sciencedirect.com/science/article/abs/pii/S1350630725006533
-      image:
+      image: ./assets/img/EFA.png
 
     - title: "On Pharmacokinetics and Pharmacodynamics of Antiepileptic Components of Qingyangshenggenin Based on SVM and LSTM"
       authors: <strong>G Xie</strong>, K Li, Y Li
