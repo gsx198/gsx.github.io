@@ -2,14 +2,14 @@ main:
     - title: "A comprehensive survey on multimodal computer vision (CV)-assisted corrosion assessment and corrosion prediction"
       authors: X Yao, Y Wu, <strong>G Xie</strong>, DY Zhao, DH Xia
       journal_short: CEST
-      journal: Corrosion Engineering, Science and Technology, 1478422X251387524
+      journal: Corrosion Engineering, Science and Technology, 2025
       pdf: https://journals.sagepub.com/doi/abs/10.1177/1478422X251387524
       image: ./assets/img/CEST.png
 
     - title: "Failure analysis and corrosion prediction of scratch-coated steel plate in marine atmosphere using semantic segmentation and temporal prediction"
       authors: Y Bao, <strong>G Xie</strong>, P Pu, X Yao, W Jin, DH Xia
       conference_short: EFA
-      conference: Engineering Failure Analysis, 109912
+      conference: Engineering Failure Analysis, 2025
       pdf: https://www.sciencedirect.com/science/article/abs/pii/S1350630725006533
       image: ./assets/img/EFA.png
 
