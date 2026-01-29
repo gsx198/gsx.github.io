@@ -13,6 +13,8 @@
     {% endif %}
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
+    {% elsif link.journal_short %}
+    <abbr class="badge">{{ link.journal_short }}</abbr>
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
