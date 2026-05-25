@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a full-time faculty member in the Department of Computer Science, School of Surveying and Information Engineering, West Yunnan University of Applied Sciences. Prior to joining West Yunnan University of Applied Sciences, I obtained my B.Sc. degree and M.Sc. degree from Donghua University of Technology Yangtze River College and Kunming University of Science and Technology in 2019 and 2022, respectively.
+I am a full-time faculty member in the Department of Computer Science, Faculty of Surveying and Information Engineering, West Yunnan University of Applied Sciences. Prior to joining West Yunnan University of Applied Sciences, I obtained my B.Sc. degree and M.Sc. degree from Donghua University of Technology Yangtze River College and Kunming University of Science and Technology in 2019 and 2022, respectively.
 
 ## Research Interests
 
